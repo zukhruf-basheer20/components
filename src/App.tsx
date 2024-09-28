@@ -22,7 +22,19 @@ import Button28 from "./Components/Buttons/Button28";
 import Button29 from "./Components/Buttons/Button29";
 import Button3 from "./Components/Buttons/Button3";
 import Button30 from "./Components/Buttons/Button30";
+import Button31 from "./Components/Buttons/Button31";
+import Button32 from "./Components/Buttons/Button32";
+import Button33 from "./Components/Buttons/Button33";
+import Button34 from "./Components/Buttons/Button34";
+import Button35 from "./Components/Buttons/Button35";
+import Button36 from "./Components/Buttons/Button36";
+import Button37 from "./Components/Buttons/Button37";
+import Button38 from "./Components/Buttons/Button38";
+import Button39 from "./Components/Buttons/Button39";
 import Button4 from "./Components/Buttons/Button4";
+import Button40 from "./Components/Buttons/Button40";
+import Button41 from "./Components/Buttons/Button41";
+import Button42 from "./Components/Buttons/Button42";
 import Button5 from "./Components/Buttons/Button5";
 import Button6 from "./Components/Buttons/Button6";
 import Button7 from "./Components/Buttons/Button7";
@@ -69,6 +81,20 @@ function App() {
       </div>
       <div className="flex space-x-4 p-4 justify-center">
         <Button24/>
+      </div>
+      <div className="flex space-x-4 p-4 w-22 h-22">
+        <Button31/>
+        <Button32/>
+        <Button33/>
+        <Button34/>
+        <Button35/>
+        <Button36/>
+        <Button37/>
+        <Button38/>
+        <Button39/>
+        <Button40/>
+        <Button41/>
+        <Button42/>
       </div>
 
     </div>
